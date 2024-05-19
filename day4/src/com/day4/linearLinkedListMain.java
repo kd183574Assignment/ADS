@@ -14,10 +14,9 @@ public class linearLinkedListMain {
 		l1.addFirst(20);
 		l1.addLast(30);
 		l1.addLast(40);
+		l1.addLast(50);
 		
 		l1.deleteFIrst();
-		l1.display();
-		
 		l1.deleteLast();
 		l1.display();
 
